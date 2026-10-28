@@ -4,13 +4,14 @@ About me ◽️ 🎬 Udemy Instructor ◽️ 👨🏻‍💻 Front-End Engineer 
 
 This repository contains the Source Code for the React Beginner Mistakes" from 🧑🏻‍💻 [React Crash Course: From Zero to Hero](https://linkly.link/1zdiJ) course.
 
+<!-- COURSES:START -->
 # All My Courses
 
 #### Agentic AI Courses
 
 🎛️ [Harness Engineering: Modern AI Software Development Bootcamp](https://go.dvasyliev.com/harness-engineering)\
 🦞 [OpenClaw for Developers: AI Coding Crash Course](https://go.dvasyliev.com/openclaw)\
-🧑🏻‍💻 [AI Code Review: Evaluate Python Code with Confidence](https://go.dvasyliev.com/evaluating-ai-code)\
+🧑🏻‍💻 [AI Code Review: Evaluate Python Code with Confidence](https://go.dvasyliev.com/evaluating-ai-code)
 
 #### AI Tools Courses
 
@@ -46,21 +47,4 @@ This repository contains the Source Code for the React Beginner Mistakes" from �
 
 👣 [AI Agents with OpenAI AgentKit: Hands-On Guide](https://go.dvasyliev.com/agentkit)\
 💬 [ChatGPT for Developers: AI Coding Crash Course](https://go.dvasyliev.com/chatgpt)
-
-## Open project in the VS code (code editor)
-
-Open the archive on your computer, open VS code (code editor) and cick "File" -> "Open Folder" -> Choose project folder => "Open".
-
-<img width="470" alt="Screenshot 2024-06-25 at 17 40 31" src="https://github.com/dvasyliev/react-crash-course/assets/24624324/ec7661e5-d8e7-409f-a935-5a55335553e9">
-
-## Start application
-
-### 1. Install dependencies
-
-Run the `npm install` command to install all the libraries needed to run the application.
-
-### 2. Run application
-
-Run the `npm run dev` command in terminal to start the application.
-Open [http://localhost:5173](http://localhost:5173) to view it in your browser (or use PORT you provided in `.env` file.
-The page will reload when you make changes.
+<!-- COURSES:END -->
